@@ -1,0 +1,7 @@
+This project demonstrates a basic implementation of Software as a Service (SaaS) using HDFS.
+
+A cloud environment is simulated over a Local Area Network (LAN). Files are uploaded and stored in HDFS, where they are divided into blocks and distributed across the system.
+
+Basic operations such as upload, download, and file viewing are performed using HDFS commands. The system mimics cloud storage functionality.
+
+Encryption concept is included to enhance data security during storage and transfer.
